@@ -1,1 +1,1 @@
-# rust
+println("Hello World")
